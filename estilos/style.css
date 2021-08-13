@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "Rajdhani";
+    src: url(../fonts/Rajdhani-Medium.ttf);
+}
+
+h1 {
+    color: red;
+    font-weight: 900;
+}
+body{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 300;
+    
+    
+}
+p{
+    text-align: justify;
+}
+figure {
+    margin: 0px;
+}
+figure img{
+    width: 100%;
+}
+#redes_sociais img{
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+}
+div#redes_sociais{
+    display: inline;
+    width: 100px;
+    margin-left: 25%;
+    margin-right: 20%;
+}
+hr{
+    margin-top: 50px;
+}
+
+header ul li a{
+    text-decoration: none;
+}
